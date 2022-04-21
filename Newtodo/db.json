@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "value": "Computer",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "value": "Moniter",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "value": "Desktop",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
